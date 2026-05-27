@@ -36,11 +36,11 @@ const wisnu = {
     "Dashboard Visualization System"
   ],
 };
-````
+```
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -76,9 +76,9 @@ const wisnu = {
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wsnusptr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wsnusptr&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wsnusptr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wsnusptr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
